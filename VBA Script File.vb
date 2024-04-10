@@ -1,6 +1,6 @@
 Sub StockTickerSymbolAnalysis()
 
-'This code has been made thanks to differents sources: shrawantee, Xpert Learning Assistant and myself Amanda Lor
+'This code has been made thanks to differents sources: shrawantee (Github), Xpert Learning Assistant and myself Amanda Lor
 
 'Let's determine the variables
 Dim Ticker_Symbol As String
