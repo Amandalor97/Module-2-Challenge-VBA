@@ -35,7 +35,7 @@ Total_SVolume = Total_SVolume + Cells(i, 7).Value
 'Let's look at when the next cell value differs from the one before
 If Cells(i + 1, 1).Value <> Cells(i, 1).Value Then
 
-'Ticket name
+'Ticker name
 Ticker_Symbol = Cells(i, 1).Value
 Range("I" & Ticker_Summary).Value = Ticker_Symbol
 
