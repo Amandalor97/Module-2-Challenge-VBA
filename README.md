@@ -2,7 +2,7 @@
 
 Helllo, 
 in this repository you will find my homework for the Module 2 Challenge. This includes screenshots and a VBA script file.
-This VBA script file has been made with the help of differents sources: shrawantee(Github), Xpert Learning Assistant, Tutor & and myself Amanda Lor
+This VBA script file has been made with the help of differents sources: shrawantee(Github), Xpert Learning Assistant, Tutor & and myself Amanda Lor.
 
 
 
